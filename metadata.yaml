@@ -1,0 +1,29 @@
+_repo: Da-importancia-da-Historia-Universal-Philosophica-na-esphera-dos-conhecimentos-humanos_33068
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pimentel, Alberto
+    alias: Pimentel, Alberto Augusto de Almeida
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '25371'
+    url: http://www.gutenberg.org/2009/agents/25371
+    wikipedia: http://pt.wikipedia.org/wiki/Alberto_Pimentel
+description: ''
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33068'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History'
+title: Da importancia da Historia Universal Philosophica na esphera dos conhecimentos
+  humanos
+url: http://www.gutenberg.org/ebooks/33068
